@@ -12,7 +12,6 @@ int main()
 	rect2.set_width(4);
 	rect2.set_height(2);
 	
-
 	cout << "Rectangle 1 area: " << rect1.area() << endl;
 	cout << "Rectangle 2 area: " << rect2.area() << endl;
 
